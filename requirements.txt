@@ -4,3 +4,6 @@ pandas
 pickle-mixin
 os
 gunicorn
+streamlit
+numpy
+joblib
