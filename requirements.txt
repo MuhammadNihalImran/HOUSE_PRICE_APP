@@ -1,9 +1,5 @@
-flask 
-scikit-learn
-pandas
-pickle-mixin
-os
-gunicorn
 streamlit
+pandas
 numpy
+scikit-learn
 joblib
